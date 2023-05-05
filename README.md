@@ -2,7 +2,7 @@
 Aplikasi AR untuk memenuhi kebutuhan UTS multimedia saya.
 
 ## LINK APLIKASI
-[<img src="https://img.shields.io/badge/drive-blue.svg?&style=for-the-badge&logo=google&logoColor=white">]()
+[<img src="https://img.shields.io/badge/drive-blue.svg?&style=for-the-badge&logo=google&logoColor=white">](https://drive.google.com/file/d/1wMBZZIo_B75zTuh_bSJaSjZBykH3rb8W/view?usp=share_link)
 
 ## MARKER APLIKASI
 <h1 align="center">
